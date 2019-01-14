@@ -1,0 +1,37 @@
+make php file for each task.
+1. php syntax written
+2. Echo and concate
+2. what is variables
+3. php in html
+4. comments
+
+
+Task1: write a php with html. get two variable. 1st name last name. Print them same line.with comment
+
+
+5. data types. show with var_dump(); String, int, float, null,(object, array)
+7. array, multidimensional, associate,
+8.String functions (strlen, str_word_count(), strrev, str_replace(),md5, explode, implode)
+
+task2: print all type of array , print all the string function, 
+-take your full name with comma, spilt all full name. Take "Coders Trust Success Story" as array and make them a full sentence.
+-take your full name with comma, spilt it and make it in one line string with space.
+
+
+9.php constants.
+10. operators + , - , % , / , **, 
+11. variable assign += -=,
+12. variable handling functions ( empty, gettype, is_int,is_float , var_dump , unset, print_r , isset)
+13. Global variables, $Globals, $_GET, $_POST, $_SESSION ,$_SERVER
+test: try all of these . 
+
+13. Condition meanings ? 
+14. the if statement, else statement, nested if else 
+15. multiple conditions in one if.
+test: find max between two number,
+-find max between 3 numbers
+-find even /odd , 
+- find positive , negetive and zero
+
+
+Homework: take 3 names , find the shortest name , if the name's length is odd, print the name+ you are different, if even print name + you are general.
